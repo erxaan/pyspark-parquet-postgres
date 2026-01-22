@@ -1,0 +1,7 @@
+# для docker контейнера (без pyspark уже есть в образе)
+boto3>=1.34.0
+psycopg2-binary>=2.9.9
+sqlalchemy>=2.0.0
+pandas>=2.0.0
+pyarrow>=14.0.0
+python-dotenv>=1.0.0
